@@ -6,7 +6,7 @@
 <p>
 안녕하세요. :raised_hand_with_fingers_splayed:<br/>
 시스템 개발자로 활동하고 있습니다.<br/>
-MicroService Architecture MSA를 시스템에 도입하면서 Kernetes와 Docker,Helm을 만나게 되었고<br/>
+MicroService Architecture MSA를 시스템에 도입하면서 Kubernetes와 Docker, Helm을 만나게 되었고<br/>
 Kubernetes Native 언어인 Golang으로 프로젝트 개발을 진행중 입니다.<br/>
 </p>
 
