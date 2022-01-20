@@ -1,6 +1,7 @@
 <p>
   <a href="https://yiaw.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:lsmin0703@gmail.com" target="_blank"><img src="https://img.shields.io/badge/lsmin0703@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyiaw&count_bg=%2379C83D&title_bg=%2379C83D&icon=googlekeep.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 </p>
 
 <p>
