@@ -22,13 +22,13 @@ Recently, I am developing a project using Golang, a Kubernetes native language. 
 ### Enviroments
 <p>
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=RedHat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=RedHat&logoColor=white"/>
 </p>
 
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </p>
 
 ### Learning Languages
