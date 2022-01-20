@@ -42,7 +42,7 @@ Recently, I am developing a project using Golang, a Kubernetes native language. 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Openshift-EE0000?style=flat-square&logo=Red Hat Open Shift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Openshift-EE0000?style=flat-square&logo=RedHatOpenShift&logoColor=white"/>
 </p>
 
 <p>
