@@ -75,7 +75,7 @@ Recently, I am developing a project using Golang, a Kubernetes native language. 
 
 # ⭐ GitHub
 ### status
-![yiaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiaw&show_icons=true&theme=dark)
+![yiaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=winey-dev&show_icons=true&theme=dark)
 
 ### Use Most Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiaw&layout=compact&theme=dark)](https://github.com/yiaw/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winey-dev&layout=compact&theme=dark)](https://github.com/winey-dev/github-readme-stats)
